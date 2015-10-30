@@ -17,6 +17,8 @@ il faut d’abord rentrer dans le fichier via les deux branches, resoudre et ens
 
 Alors alors: Je suis bloqué au moment d'enregistrer my_errors sur la version Desktop. Impossible ensuite de renvoyer sur rendu. Du coup je suis bloqué là depuis déjà 20 minutes et je ne peux pas avancer. 
 
+Mise à jour : J'ai réussi mais je suis méga maxi bloqué au niveau des scripts. Outre le fait que ce soit légérement énervant vu que j'ai bossé, ca me fait un peu peur car je crois que je n'ai pas la logique. J'ai beau regardé sur internet, je n'arrive pas à appliquer les choses au script. Donc je passe au suivant et au suivant puis au suivant mais c'est toujours pareil. Bloqué, bloqué et bloqué.
+
 A bientot
 
 Valentin
