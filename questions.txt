@@ -1,0 +1,16 @@
+1) Git va permettre de pouvoir travailler à plusieurs sur un même projet. Chacun pourra par exemple travailler sur sa partie du projet.
+
+2) GitHub est l'endroit où l'on va stocker les fichiers du projet. La version gratuite est open source donc tous les gens inscrits sur GitHub pourront voir votre projet. 
+
+3) Faire un commit signifie faire une sauvegarde d'un fichier. Je travaille par exemple sur un fichier home.supdeweb.php, quand je veux faire une sauvegarde, je l'ajoute d'abord à l'index (git add ...) puis je le commit c'est à dire que je le sauvegarde. On pourra voir qui a fait les sauvegardes, à quel moment ainsi que les commentaires via la commande git log
+
+4)
+
+5) L'avantage est que l'on pourra travailler à plusieurs sur un projet. On pourra modifier des fichiers depuis n'importe ou en se connectant. On pourra voir qui a fait les modifications sur quel fichier/dossier. On pourra voir les commentaires qui ont été mis. Ainsi, c'est très facile de comprendre les avancements sur un projet. Grace au commit à son id bien précis, on pourra re-acceder à une sauvegarde qui avait été faire il y a longtemps.
+
+6) Si on travaille à deux sur un fichier via deux branches différentes, il sera difficile de "Merger" (fusionner deux branches)
+il faut d’abord rentrer dans le fichier via les deux branches, resoudre et ensuite add, commit et puis merger.
+
+7) git push origin Nom_De_La_Branche
+
+8) La branche principale est la branche "Master". C'est le fil conducteur du projet. Ensuite, chacun pourra décider sur sa propre branche qu'il aura créé. Il faudra au bout d'un moment merger (fusionner) sa branche avec la branche master. 
