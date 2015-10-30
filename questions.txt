@@ -4,7 +4,7 @@
 
 3) Faire un commit signifie faire une sauvegarde d'un fichier. Je travaille par exemple sur un fichier home.supdeweb.php, quand je veux faire une sauvegarde, je l'ajoute d'abord à l'index (git add ...) puis je le commit c'est à dire que je le sauvegarde. On pourra voir qui a fait les sauvegardes, à quel moment ainsi que les commentaires via la commande git log
 
-4)
+4)La clef SSH est une clé publique générée par GIT. C'est un moyen d'identifier les ordinateurs de confiance sans qu'il y ait besoin d'un mot de passe. 
 
 5) L'avantage est que l'on pourra travailler à plusieurs sur un projet. On pourra modifier des fichiers depuis n'importe ou en se connectant. On pourra voir qui a fait les modifications sur quel fichier/dossier. On pourra voir les commentaires qui ont été mis. Ainsi, c'est très facile de comprendre les avancements sur un projet. Grace au commit à son id bien précis, on pourra re-acceder à une sauvegarde qui avait été faire il y a longtemps.
 
@@ -14,3 +14,9 @@ il faut d’abord rentrer dans le fichier via les deux branches, resoudre et ens
 7) git push origin Nom_De_La_Branche
 
 8) La branche principale est la branche "Master". C'est le fil conducteur du projet. Ensuite, chacun pourra décider sur sa propre branche qu'il aura créé. Il faudra au bout d'un moment merger (fusionner) sa branche avec la branche master. 
+
+NOTE : Alors alors ... Je suis bloqué au moment d'enregistrer tout sur la version Desktop. Je sais pas ce qu'il se passe mais impossible d'envoyer tout sur la branche rendu. Je suis bloqué depuis 20 minutes. Du coup je ne peux pas avancer ... ET C'EST LA FIN. 
+
+A bientôt
+
+Valentin
